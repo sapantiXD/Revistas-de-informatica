@@ -1,0 +1,64 @@
+body {
+  background-color: #f8c0d8;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 40px auto;
+  max-width: 900px;
+  padding: 20px;
+}
+h1 {
+  color: #2e7d32;
+  font-weight: bold;
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+.menu {
+  background-color: white;
+  padding: 15px;
+  border-radius: 30px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.menu a {
+  text-decoration: none;
+  color: #4a90e2;
+  font-weight: bold;
+  margin: 0 15px;
+}
+.revista-box {
+  background-color: #d87093;
+  border: 1px solid #c71585;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.revista-box h2 {
+  color: white;
+  text-transform: uppercase;
+  border-bottom: 1px solid white;
+  padding-bottom: 5px;
+}
+.revista-box img {
+  float: right;
+  width: 220px;
+  margin-left: 20px;
+  border: 3px solid white;
+}
+.revista-box p {
+  color: white;
+  text-align: justify;
+  line-height: 1.5;
+}
+.tornar-dalt {
+  display: block;
+  clear: both;
+  text-decoration: none;
+  font-size: 24px;
+  color: #4a90e2;
+  background: white;
+  width: 40px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 15px;
+}
